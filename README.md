@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TylerJSchmidt
+- 👀 I’m interested in Pro Audio 🎧 
+- 🌱 I’m currently learning Python and JavaScript
